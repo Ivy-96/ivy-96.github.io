@@ -1,0 +1,61 @@
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>About Me | Ivy-Bhattacharya</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="About Me" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://ivy-96.github.io/Ivy-Bhattacharya/" />
+<meta property="og:url" content="https://ivy-96.github.io/Ivy-Bhattacharya/" />
+<meta property="og:site_name" content="Ivy-Bhattacharya" />
+<script type="application/ld+json">
+{"headline":"About Me","@type":"WebSite","url":"https://ivy-96.github.io/Ivy-Bhattacharya/","name":"Ivy-Bhattacharya","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/Ivy-Bhattacharya/assets/css/style.css?v=70698ca51093bf80c61a3512cb0f7104c8cc9cbb">
+    <script src="/Ivy-Bhattacharya/assets/js/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">Ivy-Bhattacharya</h1>
+        <p class="header"></p>
+
+        <ul>
+          
+          <li><a class="buttons github" href="https://github.com/Ivy-96/Ivy-Bhattacharya">View On GitHub</a></li>
+          <li><a class="buttons github" href="https://github.com/Ivy-96/Ivy-Bhattacharya/files/3567750/Log-Antilog-Tables.pdf">CV</a></li>
+        </ul>
+
+        
+          <p class="header">This project is maintained by <a class="header name" href="https://github.com/Ivy-96">Ivy-96</a></p>
+        
+
+        
+      </header>
+
+      <section align="right">
+      <h1 id="about-me">About Me</h1>
+<h2><img align="left" width="200" height="200" src="https://user-images.githubusercontent.com/54579103/64093397-c7e43400-cd75-11e9-8e92-534c15ac3b9d.jpeg" /></h2>        
+<h4>Phone number: 4567568656<br> Mail: mylink@woo.kl<br><br><br><br><br> </h4>
+
+      </section>
+      <section align="left">
+        <h4>Hello world</h4>
+      </section>
+
+      <footer>
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
+</html>
